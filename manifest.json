@@ -1,0 +1,33 @@
+{
+ "name": "مدرسة القديس بولس الرسول للشمامسة بالعمرانية",
+ "short_name": "ألحان الشمامسة",
+ "description": "برنامج الألحان لمدرسة القديس بولس الرسول للشمامسة بالعمرانية",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "ar",
+ "dir": "rtl",
+ "background_color": "#fbf6ea",
+ "theme_color": "#fbf6ea",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
